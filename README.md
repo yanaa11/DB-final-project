@@ -1,7 +1,7 @@
 # DB-final-project
 Very simple app to manage furniture orders using standard order form. 
 
-(From 'description' file): 
+___
 
 "Основа" приложения - Excel файлы "База_Меб_Компаний.xls", "Сводная.xls" (прикреплены скриншоты, чтобы проиллюстрировать идею, но не выкладывать информацию компании) и бланк заказа стандартного образца "Заказ_Орг1.xls" (как пример). При оформлении заказа в этот бланк вбивается вручную состав заказа и заказчик. При оплате заказа клиентом заказу присваивается номер, бланк заказа отправляется на фабрику, а информация из бланка вручную переписывалась в "сводную". И далее там же ослеживался "жизненный цикл" заказа. Клиенты были слабо систематизированы в еще одной excel таблице "База...". Но с заказами их необходимо было связывать вручную, что делалось не всегда. 
 
@@ -18,7 +18,7 @@ Very simple app to manage furniture orders using standard order form.
 Диаграмма в ER_Diagram.pdf
 Прикрепила несколько картинок самого приложения, чтобы было понятно, о чем идет речь. 
 
-![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/upload.png | width = 50)
+![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/upload.png)
 ![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/info.png)
 ![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/status.png)
 ![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/client.png)
