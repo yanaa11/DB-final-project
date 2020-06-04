@@ -16,4 +16,9 @@ Very simple app to manage furniture orders using standard order form.
 В python коде для получения данных к базе делаются запросы средствами 'psycopg2' (в основном обращения к сохраненным функциям: select get_somthing(id)). 
 
 Диаграмма в ER_Diagram.pdf
-Еще прикрепила несколько картинок самого приложения, чтобы было понятно, о чем идет речь. 
+Прикрепила несколько картинок самого приложения, чтобы было понятно, о чем идет речь. 
+
+![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/upload.png | width = 50)
+![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/info.png)
+![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/status.png)
+![](https://github.com/yanaa11/DB-final-project/blob/master/fasady_app/screen/client.png)
